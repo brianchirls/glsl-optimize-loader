@@ -3,7 +3,7 @@
 Optimizes GLSL fragment and vertex shaders. For use with [webpack](http://webpack.github.io/docs/)
 
 ## Installation
-npm install proto-loader
+npm install glsl-optimize-loader
 
 ## Usage
 
