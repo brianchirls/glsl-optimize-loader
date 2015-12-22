@@ -1,0 +1,32 @@
+{
+  "name": "glsl-optimize-loader",
+  "version": "0.1.0",
+  "description": "glsl-optimizer loader module for webpack",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "glsl",
+    "optimize",
+    "webgl",
+    "shader"
+  ],
+  "author": "Brian Chirls @bchirls",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianchirls/glsl-optimize-loader.git"
+  },
+  "peerDependencies": {
+    "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.12",
+    "marcs-glsl-optimizer": "~0.1.0"
+  }
+}
